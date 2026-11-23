@@ -55,7 +55,7 @@ The notebook downloads the data automatically from the GEO FTP site, so no manua
 Python, pandas, NumPy, matplotlib, seaborn, scikit-learn, PyDESeq2, gseapy (Enrichr), STRING-DB, Cytoscape, Google Colab.
 
 ## Team (Group Three)
-| Member | Role |
+| Admission No | Member | Role |
 |---|---|---|
 | 166993 | Nancy Njoroge | Data acquisition |
 | 168000 | Macklee Gitonga | Data preprocessing and quality control |
