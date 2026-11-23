@@ -56,13 +56,13 @@ Python, pandas, NumPy, matplotlib, seaborn, scikit-learn, PyDESeq2, gseapy (Enri
 
 ## Team (Group Three)
 | Member | Role |
-|---|---|
-| Nancy Njoroge | Data acquisition |
-| Macklee Gitonga | Data preprocessing and quality control |
-| Bilgis Nzembi | Exploratory data analysis |
-| Nicole Agufana | Core analysis (differential expression) |
-| Phoebe Mokoit | Biological interpretation |
-| Amy Ojuka | Machine learning classification and conclusions |
+|---|---|---|
+| 166993 | Nancy Njoroge | Data acquisition |
+| 168000 | Macklee Gitonga | Data preprocessing and quality control |
+| 169393 | Bilgis Nzembi | Exploratory data analysis |
+| 169786 | Nicole Agufana | Core analysis (differential expression) |
+| 168222 | Phoebe Mokoit | Biological interpretation |
+| 162396 | Amy Ojuka | Machine learning classification and conclusions |
 
 ## Limitations
 Small sample size (40), bulk RNA-seq (averages across cells), all participants undergoing IVF, no clinical covariates, and several significant genes are immune/vascular cell markers.
